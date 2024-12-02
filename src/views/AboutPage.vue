@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <h1>About Me</h1>
-    <p>This is some information about me.</p>
+    <p>Hi I am a senior developer have 10 years of rich experience</p>
   </div>
 </template>
 
